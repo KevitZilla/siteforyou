@@ -1,0 +1,78 @@
+
+@import url('https://fonts.googleapis.com/css?family=Arsenal:400,400i,700,700i|Caveat:400,700&display=swap&subset=cyrillic,cyrillic-ext');
+
+/*font-family: 'Caveat', cursive;
+font-family: 'Arsenal', sans-serif;*/
+
+h1{
+  padding-top: 120px;
+}
+.mbr-arrow{
+  bottom: 10px;
+}
+.mbr-slider-carousel-custom{
+  padding-top: 0px;
+}
+.display-5, #navbarSupportedContent {
+  font-family: 'Arsenal', sans-serif;
+}
+ #navbarSupportedContent {
+  text-transform: uppercase;
+}
+.mbr-testimonial>div>div:nth-child(1)>p{
+	font-family: 'Caveat', cursive;
+	font-size: 22px;
+}
+.navbar-logo>a>img{
+	height: 40px !important;
+}
+.cid-rKOlthINFZ .navbar.navbar-short .navbar-logo a img {
+    height: 30px !important;
+}
+
+.form-header {
+    text-align: center;
+}
+.form-header>div>h2 {
+    font-size: 60px;
+    padding-top: 35px;
+}
+.form-header>div>p {
+    
+}
+.cid-rUznyBBJJG .mbr-iconfont {
+    color: #35d1a3;
+}
+.btn-primary-outline:hover, .btn-primary-outline:focus, .btn-primary-outline.focus, .btn-primary-outline.active {
+    background-color: #35d1a3;
+    border-color: #35d1a3;
+}
+.btn-primary-outline, .btn-primary-outline:active {
+    border-color: #35d1a3;
+    color: #35d1a3;
+}
+
+
+
+@media (max-width: 767px) {
+
+
+
+}
+
+@media (min-width: 767px) and (max-width: 997px) {
+	.card-block{
+		padding: 0px !important;
+	}
+	h1 {
+    line-height: 70px;
+	}
+
+
+}
+
+@media (min-width: 998px) {
+
+
+
+}
